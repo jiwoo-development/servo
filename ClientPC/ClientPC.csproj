@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="PROTOCOL">
+      <HintPath>..\Protocol\bin\Debug\netstandard2.0\PROTOCOL.dll</HintPath>
+    </Reference>
+    <Reference Include="TCPIP">
+      <HintPath>..\..\TcpIp\TCPIP\bin\Debug\netstandard2.0\TCPIP.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

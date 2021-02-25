@@ -1,0 +1,9 @@
+C:\servo\Protocol\bin\Debug\netstandard2.0\PROTOCOL.deps.json
+C:\servo\Protocol\bin\Debug\netstandard2.0\PROTOCOL.dll
+C:\servo\Protocol\bin\Debug\netstandard2.0\PROTOCOL.pdb
+C:\servo\Protocol\obj\Debug\netstandard2.0\PROTOCOL.csprojAssemblyReference.cache
+C:\servo\Protocol\obj\Debug\netstandard2.0\PROTOCOL.AssemblyInfoInputs.cache
+C:\servo\Protocol\obj\Debug\netstandard2.0\PROTOCOL.AssemblyInfo.cs
+C:\servo\Protocol\obj\Debug\netstandard2.0\PROTOCOL.csproj.CoreCompileInputs.cache
+C:\servo\Protocol\obj\Debug\netstandard2.0\PROTOCOL.dll
+C:\servo\Protocol\obj\Debug\netstandard2.0\PROTOCOL.pdb
